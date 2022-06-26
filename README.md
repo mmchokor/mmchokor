@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohamed-Hammoud Ahmed Chokor
 =============================================
 
-Second Year Computer Science Student
+Third Year Computer Science Student
 ------------------------------------
 
 Because of all the chances that this great major may provide, I am highly excited about learning more and more about it. This passion began when I was a small child fumbling around on the family PC in the early 2000s, breaking things and then fixing them myself, and then becoming the go-to person for anyone having a problem with his device, and then developing my own solution for real-world problems, such as solving math homework.
